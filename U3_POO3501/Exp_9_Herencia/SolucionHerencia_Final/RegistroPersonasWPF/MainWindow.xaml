@@ -1,0 +1,46 @@
+﻿<Window x:Class="RegistroPersonasWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="588" Width="672" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Nombres :" Height="28" HorizontalAlignment="Left" Margin="12,12,0,0" Name="label1" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="83,14,0,0" Name="txtNombres" VerticalAlignment="Top" Width="191" MaxLength="20" />
+        <Label Content="Apellidos :" Height="28" HorizontalAlignment="Left" Margin="280,14,0,0" Name="label2" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="351,17,0,0" MaxLength="20" Name="txtApellidos" VerticalAlignment="Top" Width="148" />
+        <Label Content="Sexo :" Height="28" HorizontalAlignment="Left" Margin="280,49,0,0" Name="label3" VerticalAlignment="Top" />
+        <Button Content="Agregar" Height="34" HorizontalAlignment="Left" Margin="12,223,0,0" Name="btnAgregar" VerticalAlignment="Top" Width="127" Click="btnAgregar_Click" />
+        <Button Content="Modificar" Height="34" HorizontalAlignment="Left" Margin="158,223,0,0" Name="btnModificar" VerticalAlignment="Top" Width="127" Click="btnModificar_Click" />
+        <Button Content="Eliminar" Height="34" Margin="304,223,0,0" Name="btnEliminar" VerticalAlignment="Top" HorizontalAlignment="Left" Width="127" Click="btnEliminar_Click" />
+        <Label Content="Registro de Personas" Height="28" HorizontalAlignment="Left" Margin="5,269,0,0" Name="label6" VerticalAlignment="Top" />
+        <DataGrid AutoGenerateColumns="True" Height="141" HorizontalAlignment="Left" Margin="12,303,0,0" Name="dgRegistro" VerticalAlignment="Top" Width="584" SelectionChanged="dgRegistro_SelectionChanged" IsReadOnly="True" />
+        <ComboBox Height="23" HorizontalAlignment="Right" Margin="0,54,108,0" Name="cboSexo" VerticalAlignment="Top" Width="191" />
+        <GroupBox Height="118" HorizontalAlignment="Left" Margin="12,91,0,0" Name="groupBox1" VerticalAlignment="Top" Width="308">
+
+            <GroupBox.Header>
+                <CheckBox Name="chkTrabajador" Content="Trabajador" Checked="chkTrabajador_Checked" Unchecked="chkTrabajador_Unchecked" />
+            </GroupBox.Header>
+
+            <Grid>
+                <Label Content="Sueldo :" Height="28" HorizontalAlignment="Left" Margin="10,10,0,0" Name="label4" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="81,12,0,0" MaxLength="20" Name="txtSueldo" VerticalAlignment="Top" Width="191" />
+                <Label Content="Cargo :" Height="28" HorizontalAlignment="Left" Margin="10,41,0,0" Name="label7" VerticalAlignment="Top" />
+                <ComboBox Height="23" HorizontalAlignment="Left" Margin="81,41,0,0" Name="cboCargo" VerticalAlignment="Top" Width="191" />
+            </Grid>
+        </GroupBox>
+        <GroupBox Height="118" HorizontalAlignment="Left" Margin="326,91,0,0" Name="groupBox2" VerticalAlignment="Top" Width="312">
+            <GroupBox.Header>
+                <CheckBox Name="chkCliente" Content="Cliente" Checked="chkCliente_Checked" Unchecked="chkCliente_Unchecked" />
+            </GroupBox.Header>
+
+            <Grid>
+                <Label Content="Descuento :" Height="28" HorizontalAlignment="Left" Margin="10,10,0,0" Name="label5" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="81,12,0,0" MaxLength="20" Name="txtDescuento" VerticalAlignment="Top" Width="191" />
+                <Label Content="Tipo :" Height="28" HorizontalAlignment="Left" Margin="10,41,0,0" Name="label8" VerticalAlignment="Top" />
+                <ComboBox Height="23" HorizontalAlignment="Left" Margin="81,41,0,0" Name="cboTipo" VerticalAlignment="Top" Width="191" />
+            </Grid>
+        </GroupBox>
+        <DataGrid AutoGenerateColumns="True" Height="47" HorizontalAlignment="Left" Margin="12,466,0,0" Name="dgDetalle" VerticalAlignment="Top" Width="584" IsReadOnly="True" />
+        <Label Content="Estado Civil:" Height="28" HorizontalAlignment="Left" Margin="12,49,0,0" Name="label9" VerticalAlignment="Top" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="83,54,0,0" Name="cboEstCivil" VerticalAlignment="Top" Width="191" />
+    </Grid>
+</Window>

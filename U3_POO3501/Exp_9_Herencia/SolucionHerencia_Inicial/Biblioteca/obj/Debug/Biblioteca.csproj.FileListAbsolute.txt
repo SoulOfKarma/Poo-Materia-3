@@ -1,0 +1,5 @@
+F:\PracticasPOO3501\SolucionHerencia\Biblioteca\bin\Debug\Biblioteca.dll
+F:\PracticasPOO3501\SolucionHerencia\Biblioteca\bin\Debug\Biblioteca.pdb
+F:\PracticasPOO3501\SolucionHerencia\Biblioteca\obj\Debug\ResolveAssemblyReference.cache
+F:\PracticasPOO3501\SolucionHerencia\Biblioteca\obj\Debug\Biblioteca.dll
+F:\PracticasPOO3501\SolucionHerencia\Biblioteca\obj\Debug\Biblioteca.pdb

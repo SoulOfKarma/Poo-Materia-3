@@ -1,0 +1,18 @@
+F:\POY3001\Solución Contratos TeleCell\TeleCellWPF\bin\Debug\TeleCellWPF.exe
+F:\POY3001\Solución Contratos TeleCell\TeleCellWPF\bin\Debug\TeleCellWPF.pdb
+F:\POY3001\Solución Contratos TeleCell\TeleCellWPF\bin\Debug\BibliotecaTeleCell.dll
+F:\POY3001\Solución Contratos TeleCell\TeleCellWPF\bin\Debug\BibliotecaTeleCell.pdb
+F:\POY3001\Solución Contratos TeleCell\TeleCellWPF\obj\x86\Debug\TeleCellWPF.csprojResolveAssemblyReference.cache
+F:\POY3001\Solución Contratos TeleCell\TeleCellWPF\obj\x86\Debug\MainWindow.baml
+F:\POY3001\Solución Contratos TeleCell\TeleCellWPF\obj\x86\Debug\MainWindow.g.cs
+F:\POY3001\Solución Contratos TeleCell\TeleCellWPF\obj\x86\Debug\App.g.cs
+F:\POY3001\Solución Contratos TeleCell\TeleCellWPF\obj\x86\Debug\TeleCellWPF_MarkupCompile.cache
+F:\POY3001\Solución Contratos TeleCell\TeleCellWPF\obj\x86\Debug\TeleCellWPF.g.resources
+F:\POY3001\Solución Contratos TeleCell\TeleCellWPF\obj\x86\Debug\TeleCellWPF.Properties.Resources.resources
+F:\POY3001\Solución Contratos TeleCell\TeleCellWPF\obj\x86\Debug\TeleCellWPF.csproj.GenerateResource.Cache
+F:\POY3001\Solución Contratos TeleCell\TeleCellWPF\obj\x86\Debug\TeleCellWPF.exe
+F:\POY3001\Solución Contratos TeleCell\TeleCellWPF\obj\x86\Debug\TeleCellWPF.pdb
+F:\POY3001\Solución Contratos TeleCell\TeleCellWPF\obj\x86\Debug\Estadisticas.baml
+F:\POY3001\Solución Contratos TeleCell\TeleCellWPF\obj\x86\Debug\Estadisticas.g.cs
+F:\Drive\U3_POO3501\Exp_11_Colecciones\Solución Contratos TeleCell - Final\TeleCellWPF\obj\x86\Debug\TeleCellWPF.exe
+F:\Drive\U3_POO3501\Exp_11_Colecciones\Solución Contratos TeleCell - Final\TeleCellWPF\obj\x86\Debug\TeleCellWPF.pdb

@@ -1,0 +1,7 @@
+F:\PracticasPOO3501\Solucion Colecciones\MisColecciones\bin\Debug\MisColecciones.exe
+F:\PracticasPOO3501\Solucion Colecciones\MisColecciones\bin\Debug\MisColecciones.pdb
+F:\PracticasPOO3501\Solucion Colecciones\MisColecciones\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PracticasPOO3501\Solucion Colecciones\MisColecciones\obj\x86\Debug\MisColecciones.exe
+F:\PracticasPOO3501\Solucion Colecciones\MisColecciones\obj\x86\Debug\MisColecciones.pdb
+F:\PracticasPOO3501\Solucion Colecciones\MisColecciones\bin\Debug\BibliotecaPersonas.dll
+F:\PracticasPOO3501\Solucion Colecciones\MisColecciones\bin\Debug\BibliotecaPersonas.pdb

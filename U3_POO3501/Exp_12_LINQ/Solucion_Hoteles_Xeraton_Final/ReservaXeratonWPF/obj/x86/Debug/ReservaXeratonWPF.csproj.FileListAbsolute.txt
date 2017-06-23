@@ -1,0 +1,59 @@
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\bin\Debug\ReservaXeratonWPF.exe
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\bin\Debug\ReservaXeratonWPF.pdb
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\bin\Debug\BibliotecaHotel.dll
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\bin\Debug\BibliotecaHotel.pdb
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.csprojResolveAssemblyReference.cache
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\MainWindow.baml
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\MainWindow.g.cs
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\App.g.cs
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF_MarkupCompile.cache
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.g.resources
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.Properties.Resources.resources
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.csproj.GenerateResource.Cache
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.exe
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.pdb
+C:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.exe
+C:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.pdb
+C:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.csprojResolveAssemblyReference.cache
+C:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\MainWindow.baml
+C:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\MainWindow.g.cs
+C:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\App.g.cs
+C:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF_MarkupCompile.cache
+C:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.g.resources
+C:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.Properties.Resources.resources
+C:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.csproj.GenerateResource.Cache
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\Estadisticas.baml
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\Estadisticas.g.cs
+F:\POY3001\Solucion Hoteles Xeraton LINQ\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.csprojResolveAssemblyReference.cache
+F:\POY3001\Solucion Hoteles Xeraton LINQ\ReservaXeratonWPF\obj\x86\Debug\Estadisticas.baml
+F:\POY3001\Solucion Hoteles Xeraton LINQ\ReservaXeratonWPF\obj\x86\Debug\MainWindow.baml
+F:\POY3001\Solucion Hoteles Xeraton LINQ\ReservaXeratonWPF\obj\x86\Debug\Estadisticas.g.cs
+F:\POY3001\Solucion Hoteles Xeraton LINQ\ReservaXeratonWPF\obj\x86\Debug\MainWindow.g.cs
+F:\POY3001\Solucion Hoteles Xeraton LINQ\ReservaXeratonWPF\obj\x86\Debug\App.g.cs
+F:\POY3001\Solucion Hoteles Xeraton LINQ\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF_MarkupCompile.cache
+F:\POY3001\Solucion Hoteles Xeraton LINQ\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.g.resources
+F:\POY3001\Solucion Hoteles Xeraton LINQ\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.Properties.Resources.resources
+F:\POY3001\Solucion Hoteles Xeraton LINQ\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.csproj.GenerateResource.Cache
+F:\POY3001\Solucion Hoteles Xeraton LINQ\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.exe
+F:\POY3001\Solucion Hoteles Xeraton LINQ\ReservaXeratonWPF\bin\Debug\ReservaXeratonWPF.exe
+F:\POY3001\Solucion Hoteles Xeraton LINQ\ReservaXeratonWPF\bin\Debug\ReservaXeratonWPF.pdb
+F:\POY3001\Solucion Hoteles Xeraton LINQ\ReservaXeratonWPF\bin\Debug\BibliotecaHotel.dll
+F:\POY3001\Solucion Hoteles Xeraton LINQ\ReservaXeratonWPF\bin\Debug\BibliotecaHotel.pdb
+F:\POY3001\Solucion Hoteles Xeraton LINQ\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.pdb
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.exe
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.pdb
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\ReservaXeratonWPF\bin\Debug\ReservaXeratonWPF.exe
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\ReservaXeratonWPF\bin\Debug\ReservaXeratonWPF.pdb
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\ReservaXeratonWPF\bin\Debug\BibliotecaHotel.dll
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\ReservaXeratonWPF\bin\Debug\BibliotecaHotel.pdb
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\ReservaXeratonWPF\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\ReservaXeratonWPF\obj\x86\Debug\Estadisticas.baml
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\ReservaXeratonWPF\obj\x86\Debug\MainWindow.baml
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\ReservaXeratonWPF\obj\x86\Debug\Estadisticas.g.cs
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\ReservaXeratonWPF\obj\x86\Debug\MainWindow.g.cs
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\ReservaXeratonWPF\obj\x86\Debug\App.g.cs
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF_MarkupCompile.cache
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.g.resources
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.Properties.Resources.resources
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\ReservaXeratonWPF\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\ReservaXeratonWPF\obj\x86\Debug\GenerateResource.write.1.tlog

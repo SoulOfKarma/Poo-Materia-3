@@ -1,0 +1,5 @@
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Consultas LINQ\ConsolaLINQ\bin\Debug\ConsolaLINQ.exe
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Consultas LINQ\ConsolaLINQ\bin\Debug\ConsolaLINQ.pdb
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Consultas LINQ\ConsolaLINQ\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Consultas LINQ\ConsolaLINQ\obj\x86\Debug\ConsolaLINQ.exe
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Consultas LINQ\ConsolaLINQ\obj\x86\Debug\ConsolaLINQ.pdb

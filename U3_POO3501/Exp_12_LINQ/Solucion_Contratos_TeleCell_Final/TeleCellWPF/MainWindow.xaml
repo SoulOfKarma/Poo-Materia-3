@@ -1,0 +1,23 @@
+﻿<Window x:Class="TeleCellWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="695" Width="730">
+    <Grid>
+        <DataGrid AutoGenerateColumns="True" Height="339" HorizontalAlignment="Left" Margin="12,12,0,0" Name="dgRegistro" VerticalAlignment="Top" Width="688" IsReadOnly="True" />
+        <Button Content="Contar Por Tipo" Height="23" HorizontalAlignment="Left" Margin="12,357,0,0" Name="btnContarTipo" VerticalAlignment="Top" Width="121" Click="btnContarTipo_Click" />
+        <Label Content="PostPago" Height="28" HorizontalAlignment="Left" Margin="139,357,0,0" Name="label1" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="205,357,0,0" Name="txtPostPago" VerticalAlignment="Top" Width="55" />
+        <Label Content="PrePago" Height="28" HorizontalAlignment="Left" Margin="269,357,0,0" Name="label2" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="335,357,0,0" Name="txtPrePago" VerticalAlignment="Top" Width="50" />
+        <Button Content="Contratos Equipo Propio" Height="23" HorizontalAlignment="Left" Margin="12,394,0,0" Name="btnEquipoPropio" VerticalAlignment="Top" Width="152" Click="btnEquipoPropio_Click" />
+        <ListBox Height="160" HorizontalAlignment="Left" Margin="13,423,0,0" Name="lstEquipoPropio" VerticalAlignment="Top" Width="151" />
+        <DatePicker Height="25" HorizontalAlignment="Left" Margin="179,421,0,0" Name="dpInicio" VerticalAlignment="Top" Width="115" />
+        <Label Content="Inicio" Height="28" HorizontalAlignment="Left" Margin="179,397,0,0" Name="label3" VerticalAlignment="Top" />
+        <DatePicker Height="25" HorizontalAlignment="Left" Margin="179,479,0,0" Name="dpTermino" VerticalAlignment="Top" Width="115" />
+        <Label Content="Término" Height="28" HorizontalAlignment="Left" Margin="179,457,0,0" Name="label4" VerticalAlignment="Top" />
+        <Button Content="Consultar Nombres" Height="27" HorizontalAlignment="Left" Margin="179,519,0,0" Name="btnNombres" VerticalAlignment="Top" Width="115" Click="btnNombres_Click" />
+        <ListBox Height="160" HorizontalAlignment="Left" Margin="300,423,0,0" Name="lstNombres" VerticalAlignment="Top" Width="174" />
+        <Button Content="Fechas Menor Valor" Height="23" HorizontalAlignment="Left" Margin="490,396,0,0" Name="btnMenorValor" VerticalAlignment="Top" Width="207" Click="btnMenorValor_Click" />
+        <ListBox Height="160" HorizontalAlignment="Left" Margin="490,423,0,0" Name="lstMenorValor" VerticalAlignment="Top" Width="207" />
+    </Grid>
+</Window>

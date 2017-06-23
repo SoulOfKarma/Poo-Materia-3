@@ -1,0 +1,26 @@
+﻿<Window x:Class="ReservaXeratonWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="500" Width="487">
+    <Grid>
+        <Label Content="Número :" Height="28" HorizontalAlignment="Left" Margin="12,12,0,0" Name="label1" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="113,12,0,0" Name="txtNumero" VerticalAlignment="Top" Width="115" />
+        <Label Content="Fecha Reserva :" Height="28" HorizontalAlignment="Left" Margin="236,12,0,0" Name="label2" VerticalAlignment="Top" />
+        <DatePicker Height="25" HorizontalAlignment="Left" Margin="333,13,0,0" Name="dpReserva" VerticalAlignment="Top" Width="115" />
+        <Label Content="Estadia Desde :" Height="28" HorizontalAlignment="Left" Margin="12,42,0,0" Name="label3" VerticalAlignment="Top" />
+        <DatePicker Height="25" HorizontalAlignment="Left" Margin="113,41,0,0" Name="dpInicio" VerticalAlignment="Top" Width="115" />
+        <Label Content="Hasta :" Height="28" HorizontalAlignment="Left" Margin="236,42,0,0" Name="label4" VerticalAlignment="Top" />
+        <DatePicker Height="25" HorizontalAlignment="Left" Margin="333,43,0,0" Name="dpTermino" VerticalAlignment="Top" Width="115" />
+        <Label Content="Tipo Reserva :" Height="28" HorizontalAlignment="Left" Margin="12,76,0,0" Name="label5" VerticalAlignment="Top" />
+        <Label Content="Habitación :" Height="28" HorizontalAlignment="Left" Margin="237,76,0,0" Name="label6" VerticalAlignment="Top" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="113,76,0,0" Name="cboTipo" VerticalAlignment="Top" Width="120" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="333,76,0,0" Name="cboHabitacion" VerticalAlignment="Top" Width="120" />
+        <Button Content="Agregar" Height="23" HorizontalAlignment="Left" Margin="20,110,0,0" Name="btnAgregar" VerticalAlignment="Top" Width="75" Click="btnAgregar_Click" />
+        <DataGrid AutoGenerateColumns="True" Height="200" HorizontalAlignment="Left" Margin="20,150,0,0" Name="dgReservas" VerticalAlignment="Top" Width="433" IsReadOnly="True" SelectionChanged="dgReservas_SelectionChanged" />
+        <Label Content="Valor Final Reserva :" Height="28" HorizontalAlignment="Left" Margin="156,361,0,0" Name="label7" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="278,363,0,0" Name="txtValor" VerticalAlignment="Top" Width="115" />
+        <CheckBox Content="¿Es cancelable?" Height="16" HorizontalAlignment="Left" Margin="27,366,0,0" Name="chkCancelable" VerticalAlignment="Top" />
+        <Button Content="Eliminar" Height="23" HorizontalAlignment="Left" Margin="113,110,0,0" Name="btnEliminar" VerticalAlignment="Top" Width="75" Click="btnEliminar_Click" />
+        <Button Content="Ver Estadisticas" Height="23" HorizontalAlignment="Left" Margin="20,401,0,0" Name="btnEstadistica" VerticalAlignment="Top" Width="127" Click="btnEstadistica_Click" />
+    </Grid>
+</Window>

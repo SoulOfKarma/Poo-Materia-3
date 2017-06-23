@@ -1,0 +1,5 @@
+F:\PracticasPOO3501\Solucion Colecciones\BibliotecaPersonas\bin\Debug\BibliotecaPersonas.dll
+F:\PracticasPOO3501\Solucion Colecciones\BibliotecaPersonas\bin\Debug\BibliotecaPersonas.pdb
+F:\PracticasPOO3501\Solucion Colecciones\BibliotecaPersonas\obj\Debug\ResolveAssemblyReference.cache
+F:\PracticasPOO3501\Solucion Colecciones\BibliotecaPersonas\obj\Debug\BibliotecaPersonas.dll
+F:\PracticasPOO3501\Solucion Colecciones\BibliotecaPersonas\obj\Debug\BibliotecaPersonas.pdb

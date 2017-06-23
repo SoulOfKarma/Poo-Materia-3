@@ -1,0 +1,7 @@
+F:\PracticasPOO3501\SolucionHerencia - Final\ClienteConsola\bin\Debug\ClienteConsola.exe
+F:\PracticasPOO3501\SolucionHerencia - Final\ClienteConsola\bin\Debug\ClienteConsola.pdb
+F:\PracticasPOO3501\SolucionHerencia - Final\ClienteConsola\bin\Debug\Biblioteca.dll
+F:\PracticasPOO3501\SolucionHerencia - Final\ClienteConsola\bin\Debug\Biblioteca.pdb
+F:\PracticasPOO3501\SolucionHerencia - Final\ClienteConsola\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PracticasPOO3501\SolucionHerencia - Final\ClienteConsola\obj\x86\Debug\ClienteConsola.exe
+F:\PracticasPOO3501\SolucionHerencia - Final\ClienteConsola\obj\x86\Debug\ClienteConsola.pdb

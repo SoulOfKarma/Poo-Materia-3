@@ -1,0 +1,9 @@
+F:\POY3001\Solución Contratos TeleCell\BibliotecaTeleCell\bin\Debug\BibliotecaTeleCell.dll
+F:\POY3001\Solución Contratos TeleCell\BibliotecaTeleCell\bin\Debug\BibliotecaTeleCell.pdb
+F:\POY3001\Solución Contratos TeleCell\BibliotecaTeleCell\obj\Debug\BibliotecaTeleCell.dll
+F:\POY3001\Solución Contratos TeleCell\BibliotecaTeleCell\obj\Debug\BibliotecaTeleCell.pdb
+F:\POY3001\Solución Contratos TeleCell LINQ\BibliotecaTeleCell\bin\Debug\BibliotecaTeleCell.dll
+F:\POY3001\Solución Contratos TeleCell LINQ\BibliotecaTeleCell\bin\Debug\BibliotecaTeleCell.pdb
+F:\POY3001\Solución Contratos TeleCell LINQ\BibliotecaTeleCell\obj\Debug\BibliotecaTeleCell.csprojResolveAssemblyReference.cache
+F:\POY3001\Solución Contratos TeleCell LINQ\BibliotecaTeleCell\obj\Debug\BibliotecaTeleCell.dll
+F:\POY3001\Solución Contratos TeleCell LINQ\BibliotecaTeleCell\obj\Debug\BibliotecaTeleCell.pdb

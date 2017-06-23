@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaTeleCell", "BibliotecaTeleCell\BibliotecaTeleCell.csproj", "{201D992E-03DF-4344-92E6-FD8BA001F5CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeleCellWPF", "TeleCellWPF\TeleCellWPF.csproj", "{4A34619C-31FD-41A2-BBD1-29B000181FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{201D992E-03DF-4344-92E6-FD8BA001F5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201D992E-03DF-4344-92E6-FD8BA001F5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{201D992E-03DF-4344-92E6-FD8BA001F5CD}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{201D992E-03DF-4344-92E6-FD8BA001F5CD}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{201D992E-03DF-4344-92E6-FD8BA001F5CD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{201D992E-03DF-4344-92E6-FD8BA001F5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{201D992E-03DF-4344-92E6-FD8BA001F5CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{201D992E-03DF-4344-92E6-FD8BA001F5CD}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{201D992E-03DF-4344-92E6-FD8BA001F5CD}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{201D992E-03DF-4344-92E6-FD8BA001F5CD}.Release|x86.ActiveCfg = Release|Any CPU
+		{4A34619C-31FD-41A2-BBD1-29B000181FAD}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{4A34619C-31FD-41A2-BBD1-29B000181FAD}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{4A34619C-31FD-41A2-BBD1-29B000181FAD}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{4A34619C-31FD-41A2-BBD1-29B000181FAD}.Debug|x86.ActiveCfg = Debug|x86
+		{4A34619C-31FD-41A2-BBD1-29B000181FAD}.Debug|x86.Build.0 = Debug|x86
+		{4A34619C-31FD-41A2-BBD1-29B000181FAD}.Release|Any CPU.ActiveCfg = Release|x86
+		{4A34619C-31FD-41A2-BBD1-29B000181FAD}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{4A34619C-31FD-41A2-BBD1-29B000181FAD}.Release|Mixed Platforms.Build.0 = Release|x86
+		{4A34619C-31FD-41A2-BBD1-29B000181FAD}.Release|x86.ActiveCfg = Release|x86
+		{4A34619C-31FD-41A2-BBD1-29B000181FAD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

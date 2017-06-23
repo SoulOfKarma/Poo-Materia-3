@@ -1,0 +1,8 @@
+F:\POY3001\Solucion Hoteles Xeraton\BibliotecaHotel\bin\Debug\BibliotecaHotel.dll
+F:\POY3001\Solucion Hoteles Xeraton\BibliotecaHotel\bin\Debug\BibliotecaHotel.pdb
+F:\POY3001\Solucion Hoteles Xeraton\BibliotecaHotel\obj\Debug\BibliotecaHotel.dll
+F:\POY3001\Solucion Hoteles Xeraton\BibliotecaHotel\obj\Debug\BibliotecaHotel.pdb
+C:\POY3001\Solucion Hoteles Xeraton\BibliotecaHotel\bin\Debug\BibliotecaHotel.dll
+C:\POY3001\Solucion Hoteles Xeraton\BibliotecaHotel\bin\Debug\BibliotecaHotel.pdb
+C:\POY3001\Solucion Hoteles Xeraton\BibliotecaHotel\obj\Debug\BibliotecaHotel.dll
+C:\POY3001\Solucion Hoteles Xeraton\BibliotecaHotel\obj\Debug\BibliotecaHotel.pdb

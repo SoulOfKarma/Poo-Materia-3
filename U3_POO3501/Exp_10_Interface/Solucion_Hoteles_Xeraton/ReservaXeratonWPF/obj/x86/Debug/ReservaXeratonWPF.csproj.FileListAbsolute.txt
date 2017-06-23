@@ -1,0 +1,14 @@
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\bin\Debug\ReservaXeratonWPF.exe
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\bin\Debug\ReservaXeratonWPF.pdb
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\bin\Debug\BibliotecaHotel.dll
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\bin\Debug\BibliotecaHotel.pdb
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.csprojResolveAssemblyReference.cache
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\MainWindow.baml
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\MainWindow.g.cs
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\App.g.cs
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF_MarkupCompile.cache
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.g.resources
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.Properties.Resources.resources
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.csproj.GenerateResource.Cache
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.exe
+F:\POY3001\Solucion Hoteles Xeraton\ReservaXeratonWPF\obj\x86\Debug\ReservaXeratonWPF.pdb

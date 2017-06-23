@@ -1,0 +1,58 @@
+F:\DUOC\PEV .Net POY3001\NET POY3001\Experiencias de Aprendizaje\EA07.WPF\3-Hands On\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.csprojResolveAssemblyReference.cache
+F:\DUOC\PEV .Net POY3001\NET POY3001\Experiencias de Aprendizaje\EA07.WPF\3-Hands On\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\MainWindow.baml
+F:\DUOC\PEV .Net POY3001\NET POY3001\Experiencias de Aprendizaje\EA07.WPF\3-Hands On\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\MainWindow.g.cs
+F:\DUOC\PEV .Net POY3001\NET POY3001\Experiencias de Aprendizaje\EA07.WPF\3-Hands On\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\App.g.cs
+F:\DUOC\PEV .Net POY3001\NET POY3001\Experiencias de Aprendizaje\EA07.WPF\3-Hands On\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF_MarkupCompile.cache
+F:\DUOC\PEV .Net POY3001\NET POY3001\Experiencias de Aprendizaje\EA07.WPF\3-Hands On\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.g.resources
+F:\DUOC\PEV .Net POY3001\NET POY3001\Experiencias de Aprendizaje\EA07.WPF\3-Hands On\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.Properties.Resources.resources
+F:\DUOC\PEV .Net POY3001\NET POY3001\Experiencias de Aprendizaje\EA07.WPF\3-Hands On\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.csproj.GenerateResource.Cache
+F:\DUOC\PEV .Net POY3001\NET POY3001\Experiencias de Aprendizaje\EA07.WPF\3-Hands On\Solucion Clase Persona\RegistroPersonasWPF\bin\Debug\RegistroPersonasWPF.exe
+F:\DUOC\PEV .Net POY3001\NET POY3001\Experiencias de Aprendizaje\EA07.WPF\3-Hands On\Solucion Clase Persona\RegistroPersonasWPF\bin\Debug\RegistroPersonasWPF.pdb
+F:\DUOC\PEV .Net POY3001\NET POY3001\Experiencias de Aprendizaje\EA07.WPF\3-Hands On\Solucion Clase Persona\RegistroPersonasWPF\bin\Debug\BibliotecaPOY.dll
+F:\DUOC\PEV .Net POY3001\NET POY3001\Experiencias de Aprendizaje\EA07.WPF\3-Hands On\Solucion Clase Persona\RegistroPersonasWPF\bin\Debug\BibliotecaPOY.pdb
+F:\DUOC\PEV .Net POY3001\NET POY3001\Experiencias de Aprendizaje\EA07.WPF\3-Hands On\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.exe
+F:\DUOC\PEV .Net POY3001\NET POY3001\Experiencias de Aprendizaje\EA07.WPF\3-Hands On\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.pdb
+F:\POY3001\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.exe
+F:\POY3001\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.pdb
+F:\POY3001\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.csprojResolveAssemblyReference.cache
+F:\POY3001\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\MainWindow.baml
+F:\POY3001\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\MainWindow.g.cs
+F:\POY3001\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\App.g.cs
+F:\POY3001\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF_MarkupCompile.cache
+F:\POY3001\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.g.resources
+F:\POY3001\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.Properties.Resources.resources
+F:\POY3001\Solucion Clase Persona\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.csproj.GenerateResource.Cache
+F:\POY3001\Solucion Clase Persona\RegistroPersonasWPF\bin\Debug\RegistroPersonasWPF.exe
+F:\POY3001\Solucion Clase Persona\RegistroPersonasWPF\bin\Debug\RegistroPersonasWPF.pdb
+F:\POY3001\Solucion Clase Persona\RegistroPersonasWPF\bin\Debug\BibliotecaPOY.dll
+F:\POY3001\Solucion Clase Persona\RegistroPersonasWPF\bin\Debug\BibliotecaPOY.pdb
+F:\PracticasPOO3501\Solucion Persona Herencia\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.exe
+F:\PracticasPOO3501\Solucion Persona Herencia\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.pdb
+F:\PracticasPOO3501\Solucion Persona Herencia\RegistroPersonasWPF\bin\Debug\RegistroPersonasWPF.exe
+F:\PracticasPOO3501\Solucion Persona Herencia\RegistroPersonasWPF\bin\Debug\RegistroPersonasWPF.pdb
+F:\PracticasPOO3501\Solucion Persona Herencia\RegistroPersonasWPF\bin\Debug\BibliotecaPOY.dll
+F:\PracticasPOO3501\Solucion Persona Herencia\RegistroPersonasWPF\bin\Debug\BibliotecaPOY.pdb
+F:\PracticasPOO3501\Solucion Persona Herencia\RegistroPersonasWPF\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PracticasPOO3501\Solucion Persona Herencia\RegistroPersonasWPF\obj\x86\Debug\MainWindow.baml
+F:\PracticasPOO3501\Solucion Persona Herencia\RegistroPersonasWPF\obj\x86\Debug\MainWindow.g.cs
+F:\PracticasPOO3501\Solucion Persona Herencia\RegistroPersonasWPF\obj\x86\Debug\App.g.cs
+F:\PracticasPOO3501\Solucion Persona Herencia\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF_MarkupCompile.cache
+F:\PracticasPOO3501\Solucion Persona Herencia\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.g.resources
+F:\PracticasPOO3501\Solucion Persona Herencia\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.Properties.Resources.resources
+F:\PracticasPOO3501\Solucion Persona Herencia\RegistroPersonasWPF\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PracticasPOO3501\Solucion Persona Herencia\RegistroPersonasWPF\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\PracticasPOO3501\SolucionHerencia\RegistroPersonasWPF\bin\Debug\RegistroPersonasWPF.exe
+F:\PracticasPOO3501\SolucionHerencia\RegistroPersonasWPF\bin\Debug\RegistroPersonasWPF.pdb
+F:\PracticasPOO3501\SolucionHerencia\RegistroPersonasWPF\bin\Debug\Biblioteca.dll
+F:\PracticasPOO3501\SolucionHerencia\RegistroPersonasWPF\bin\Debug\Biblioteca.pdb
+F:\PracticasPOO3501\SolucionHerencia\RegistroPersonasWPF\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\PracticasPOO3501\SolucionHerencia\RegistroPersonasWPF\obj\x86\Debug\MainWindow.baml
+F:\PracticasPOO3501\SolucionHerencia\RegistroPersonasWPF\obj\x86\Debug\MainWindow.g.cs
+F:\PracticasPOO3501\SolucionHerencia\RegistroPersonasWPF\obj\x86\Debug\App.g.cs
+F:\PracticasPOO3501\SolucionHerencia\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF_MarkupCompile.cache
+F:\PracticasPOO3501\SolucionHerencia\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.g.resources
+F:\PracticasPOO3501\SolucionHerencia\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.Properties.Resources.resources
+F:\PracticasPOO3501\SolucionHerencia\RegistroPersonasWPF\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\PracticasPOO3501\SolucionHerencia\RegistroPersonasWPF\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\PracticasPOO3501\SolucionHerencia\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.exe
+F:\PracticasPOO3501\SolucionHerencia\RegistroPersonasWPF\obj\x86\Debug\RegistroPersonasWPF.pdb

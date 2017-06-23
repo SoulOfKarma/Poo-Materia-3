@@ -1,0 +1,34 @@
+﻿<Window x:Class="TeleCellWPF.Estadisticas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Estadisticas" Height="339" Width="578" Loaded="Window_Loaded">
+    <Grid>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="130,12,0,0" Name="txtPrepago" VerticalAlignment="Top" Width="63" />
+        <Label Content="Contratos Prepago:" Height="28" HorizontalAlignment="Left" Margin="12,12,0,0" Name="label1" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="327,10,0,0" Name="txtPostpago" VerticalAlignment="Top" Width="63" />
+        <Label Content="Contratos Postpago:" Height="28" HorizontalAlignment="Left" Margin="209,10,0,0" Name="label2" VerticalAlignment="Top" />
+        <GroupBox Header="Buscar por Número" Height="164" HorizontalAlignment="Left" Margin="12,46,0,0" Name="groupBox1" VerticalAlignment="Top" Width="531">
+            <Grid>
+                <Label Content="Número : " Height="28" HorizontalAlignment="Left" Margin="10,10,0,0" Name="label3" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="112,12,0,0" MaxLength="8" Name="txtNumero" VerticalAlignment="Top" Width="136" />
+                <Label Content="Fecha Contrato : " Height="28" HorizontalAlignment="Left" Margin="10,39,0,0" Name="label4" VerticalAlignment="Top" />
+                <DatePicker Height="25" HorizontalAlignment="Left" Margin="112,39,0,0" Name="dpFechaContrato" VerticalAlignment="Top" Width="166" />
+                <Label Content="Nombre : " Height="28" HorizontalAlignment="Left" Margin="10,72,0,0" Name="label5" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="112,72,0,0" MaxLength="40" Name="txtNombre" VerticalAlignment="Top" Width="256" />
+                <CheckBox Content="¿Equipo Propio?" Height="16" HorizontalAlignment="Left" Margin="326,111,0,0" Name="chkEquipo" VerticalAlignment="Top" />
+                <Label Content="Contrato : " Height="28" HorizontalAlignment="Left" Margin="10,106,0,0" Name="label6" VerticalAlignment="Top" />
+                <ComboBox Height="23" HorizontalAlignment="Left" Margin="112,104,0,0" Name="cboContrato" VerticalAlignment="Top" Width="188" />
+                <Button Content="Buscar" Height="23" HorizontalAlignment="Left" Margin="263,11,0,0" Name="btnBuscar" VerticalAlignment="Top" Width="75" Click="btnBuscar_Click" />
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Estadística PostPago" Height="63" HorizontalAlignment="Left" Margin="12,216,0,0" Name="groupBox2" VerticalAlignment="Top" Width="531">
+            <Grid>
+                <Button Content="Consultar Precios" Height="23" HorizontalAlignment="Left" Margin="10,6,0,0" Name="btnConsultar" VerticalAlignment="Top" Width="111" Click="btnConsultar_Click" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="214,6,0,0" Name="txtSuma" VerticalAlignment="Top" Width="95" />
+                <Label Content="Suma Total :" Height="28" HorizontalAlignment="Left" Margin="133,5,0,0" Name="label7" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="399,6,0,0" Name="txtPromedio" VerticalAlignment="Top" Width="91" />
+                <Label Content="Promedio :" Height="28" HorizontalAlignment="Left" Margin="326,5,0,0" Name="label8" VerticalAlignment="Top" />
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>

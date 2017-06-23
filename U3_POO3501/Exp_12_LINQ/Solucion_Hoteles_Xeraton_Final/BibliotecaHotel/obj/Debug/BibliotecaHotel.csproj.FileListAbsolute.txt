@@ -1,0 +1,18 @@
+F:\POY3001\Solucion Hoteles Xeraton\BibliotecaHotel\bin\Debug\BibliotecaHotel.dll
+F:\POY3001\Solucion Hoteles Xeraton\BibliotecaHotel\bin\Debug\BibliotecaHotel.pdb
+F:\POY3001\Solucion Hoteles Xeraton\BibliotecaHotel\obj\Debug\BibliotecaHotel.dll
+F:\POY3001\Solucion Hoteles Xeraton\BibliotecaHotel\obj\Debug\BibliotecaHotel.pdb
+C:\POY3001\Solucion Hoteles Xeraton\BibliotecaHotel\bin\Debug\BibliotecaHotel.dll
+C:\POY3001\Solucion Hoteles Xeraton\BibliotecaHotel\bin\Debug\BibliotecaHotel.pdb
+C:\POY3001\Solucion Hoteles Xeraton\BibliotecaHotel\obj\Debug\BibliotecaHotel.dll
+C:\POY3001\Solucion Hoteles Xeraton\BibliotecaHotel\obj\Debug\BibliotecaHotel.pdb
+F:\POY3001\Solucion Hoteles Xeraton LINQ\BibliotecaHotel\bin\Debug\BibliotecaHotel.dll
+F:\POY3001\Solucion Hoteles Xeraton LINQ\BibliotecaHotel\bin\Debug\BibliotecaHotel.pdb
+F:\POY3001\Solucion Hoteles Xeraton LINQ\BibliotecaHotel\obj\Debug\BibliotecaHotel.csprojResolveAssemblyReference.cache
+F:\POY3001\Solucion Hoteles Xeraton LINQ\BibliotecaHotel\obj\Debug\BibliotecaHotel.dll
+F:\POY3001\Solucion Hoteles Xeraton LINQ\BibliotecaHotel\obj\Debug\BibliotecaHotel.pdb
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\BibliotecaHotel\bin\Debug\BibliotecaHotel.dll
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\BibliotecaHotel\bin\Debug\BibliotecaHotel.pdb
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\BibliotecaHotel\obj\Debug\ResolveAssemblyReference.cache
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\BibliotecaHotel\obj\Debug\BibliotecaHotel.dll
+F:\Drive\U3_POO3501\Exp_12_LinQ\Solucion Hoteles Xeraton - Final\BibliotecaHotel\obj\Debug\BibliotecaHotel.pdb

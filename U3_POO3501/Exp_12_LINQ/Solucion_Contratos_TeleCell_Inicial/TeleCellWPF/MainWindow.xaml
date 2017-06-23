@@ -1,0 +1,8 @@
+﻿<Window x:Class="TeleCellWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="695" Width="730">
+    <Grid>
+        <DataGrid AutoGenerateColumns="True" Height="322" HorizontalAlignment="Left" Margin="12,12,0,0" Name="dgRegistro" VerticalAlignment="Top" Width="688" IsReadOnly="True" />
+    </Grid>
+</Window>

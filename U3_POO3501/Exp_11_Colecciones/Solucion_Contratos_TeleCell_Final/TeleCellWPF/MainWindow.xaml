@@ -1,0 +1,42 @@
+﻿<Window x:Class="TeleCellWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="626" Width="551">
+    <Grid>
+        <Label Content="Número : " Height="28" HorizontalAlignment="Left" Margin="12,12,0,0" Name="label1" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="81,12,0,0" Name="txtNumero" VerticalAlignment="Top" Width="136" MaxLength="8" />
+        <Label Content="Fecha Contrato : " Height="28" HorizontalAlignment="Left" Margin="247,12,0,0" Name="label2" VerticalAlignment="Top" />
+        <DatePicker Height="25" HorizontalAlignment="Left" Margin="353,15,0,0" Name="dpFechaContrato" VerticalAlignment="Top" Width="166" />
+        <Label Content="Nombre : " Height="28" HorizontalAlignment="Left" Margin="12,41,0,0" Name="label3" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="81,41,0,0" MaxLength="40" Name="txtNombre" VerticalAlignment="Top" Width="256" />
+        <CheckBox Content="¿Equipo Propio?" Height="16" HorizontalAlignment="Left" Margin="353,80,0,0" Name="chkEquipo" VerticalAlignment="Top" />
+        <Label Content="Contrato : " Height="28" HorizontalAlignment="Left" Margin="12,75,0,0" Name="label4" VerticalAlignment="Top" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="81,75,0,0" Name="cboContrato" VerticalAlignment="Top" Width="188" SelectionChanged="cboContrato_SelectionChanged" />
+        <GroupBox Header="Plan Contratado" Height="213" HorizontalAlignment="Left" Margin="12,124,0,0" Name="groupBox1" VerticalAlignment="Top" Width="507">
+            <Grid>
+                <Label Content="Plan : " Height="28" HorizontalAlignment="Left" Margin="10,10,0,0" Name="label5" VerticalAlignment="Top" />
+                <ComboBox Height="23" HorizontalAlignment="Left" Margin="79,10,0,0" Name="cboPlan" VerticalAlignment="Top" Width="188" SelectionChanged="cboPlan_SelectionChanged" />
+                <Label Content="Minutos : " Height="28" HorizontalAlignment="Left" Margin="10,47,0,0" Name="label6" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="79,47,0,0" MaxLength="8" Name="txtMinuto" VerticalAlignment="Top" Width="60" IsReadOnly="True" />
+                <Label Content="MB : " Height="28" HorizontalAlignment="Left" Margin="160,49,0,0" Name="label7" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="229,49,0,0" MaxLength="8" Name="txtMB" VerticalAlignment="Top" Width="60" IsReadOnly="True" />
+                <Label Content="SMS : " Height="28" HorizontalAlignment="Left" Margin="318,49,0,0" Name="label8" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" Margin="387,49,0,0" MaxLength="8" Name="txtSMS" VerticalAlignment="Top" Width="60" IsReadOnly="True" />
+                <Label Content="Minutos : " Height="28" HorizontalAlignment="Left" Margin="10,112,0,0" Name="label9" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" IsReadOnly="True" Margin="79,112,0,0" MaxLength="8" Name="txtValorMinuto" VerticalAlignment="Top" Width="60" />
+                <Label Content="MB : " Height="28" HorizontalAlignment="Left" Margin="160,114,0,0" Name="label10" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" IsReadOnly="True" Margin="229,114,0,0" MaxLength="8" Name="txtValorMB" VerticalAlignment="Top" Width="60" />
+                <Label Content="SMS : " Height="28" HorizontalAlignment="Left" Margin="318,114,0,0" Name="label11" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" IsReadOnly="True" Margin="387,114,0,0" MaxLength="8" Name="txtValorSMS" VerticalAlignment="Top" Width="60" />
+                <Label Content="Valores  " Height="28" HorizontalAlignment="Left" Margin="10,78,0,0" Name="label12" VerticalAlignment="Top" />
+                <Label Content="Precio Contrato o Habilitación : " Height="28" HorizontalAlignment="Left" Margin="10,152,0,0" Name="label13" VerticalAlignment="Top" />
+                <TextBox Height="23" HorizontalAlignment="Left" IsReadOnly="True" Margin="197,152,0,0" MaxLength="8" Name="txtPrecioContrato" VerticalAlignment="Top" Width="132" />
+            </Grid>
+        </GroupBox>
+        <DataGrid AutoGenerateColumns="True" Height="200" HorizontalAlignment="Left" Margin="15,372,0,0" Name="dgRegistro" VerticalAlignment="Top" Width="501" IsReadOnly="True" SelectionChanged="dgRegistro_SelectionChanged" />
+        <Button Content="Agregar" Height="23" HorizontalAlignment="Left" Margin="18,343,0,0" Name="btnAgregar" VerticalAlignment="Top" Width="75" Click="btnAgregar_Click" />
+        <Button Content="Modificar" Height="23" HorizontalAlignment="Left" Margin="120,343,0,0" Name="btnModificar" VerticalAlignment="Top" Width="75" Click="btnModificar_Click" />
+        <Button Content="Eliminar" Height="23" HorizontalAlignment="Left" Margin="215,343,0,0" Name="btnEliminar" VerticalAlignment="Top" Width="75" Click="btnEliminar_Click" />
+        <Button Content="Estadísticas" Height="23" HorizontalAlignment="Left" Margin="441,343,0,0" Name="btnEstadisticas" VerticalAlignment="Top" Width="75" Click="btnEstadisticas_Click" />
+    </Grid>
+</Window>
